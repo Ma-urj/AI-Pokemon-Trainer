@@ -27,9 +27,9 @@ Run `python3 cli.py server`, you will get a web server which started in 8000 por
 
 ## Technical Details
 
-If you want to know more technical details, you can check the more [detailed technical documentation](https://github.com/siw028/AI-Pokemon-Trainer/blob/main/docs/running_process.md)
+If you want to know more technical details, you can check the more [detailed technical documentation](https://github.com/Ma-urj/AI-Pokemon-Trainer/blob/main/docs/running_process.md)
 
-We collated the [location of some game memory](https://github.com/siw028/AI-Pokemon-Trainer/blob/main/docs/memory_address.md) based on the information on the Internet
+We collated the [location of some game memory](https://github.com/Ma-urj/AI-Pokemon-Trainer/blob/main/docs/memory_address.md) based on the information on the Internet
 
 ## Reference
 
