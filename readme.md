@@ -40,7 +40,11 @@ Then you need copy secret_setting.json.example to secret_setting.json, and typin
 
 There are cli tools in the root folder, `cli.py`.
 
-Run `python3 cli.py server`, you will get a web server which started in 8000 port and 18080 port used by websockets, it have beautiful screen. It's goal is for the normal user to watch how AI work.
+Run using 
+```bash
+python cli.py server
+```
+You will get a web server which started in 8000 port and 18080 port used by websockets, it have beautiful screen. It's goal is for the normal user to watch how AI work.
 
 ![](./docs/img.png)
 

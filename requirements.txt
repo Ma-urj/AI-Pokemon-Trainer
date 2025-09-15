@@ -13,3 +13,4 @@ matplotlib
 prompt_toolkit
 ollama
 pygments
+pyboy
