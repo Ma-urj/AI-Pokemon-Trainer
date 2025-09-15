@@ -7,9 +7,9 @@
 https://github.com/user-attachments/assets/7f5d9d4b-7ecd-422f-9c22-834708eb996d
 
 
-## Installtion
+## Installation
 
-Firstly, you need install some package, use pip tool to install.
+First, you will need to install some packages, use pip tool to install.
 
 ```bash
 pip install -r requirements.txt
