@@ -1,4 +1,5 @@
 # AI Pokemon Trainer
+(This just changes the original to use ollama locally over chatGPT API)
 
 [![MIT License](https://img.shields.io/badge/License-MIT%20License-silver?style=flat-square)](LICENSE)
 
