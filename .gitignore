@@ -1,6 +1,5 @@
 
 red.gb.state
-secret_setting.json
 *.sav
 !.gitkeep
 
