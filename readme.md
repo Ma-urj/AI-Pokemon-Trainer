@@ -9,10 +9,29 @@ https://github.com/user-attachments/assets/7f5d9d4b-7ecd-422f-9c22-834708eb996d
 
 ## Installation
 
-First, you will need to install some packages, use pip tool to install.
+First create a virtual environment:
+
+```bash
+python3 -m venv env_name
+```
+Activate the virtual environment:
+
+```bash
+env_name\Scripts\activate
+```
+Then install some packages, use pip tool to install.
 
 ```bash
 pip install -r requirements.txt
+```
+Finally pull ollama:
+
+```bash
+ollama pull llama3.1:8b
+```
+Run Ollama locally:
+```bash
+ollama serve
 ```
 
 Then you need copy secret_setting.json.example to secret_setting.json, and typing the AI's api information.
