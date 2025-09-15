@@ -111,7 +111,7 @@ In order to make it easier to operate the game, we inherited the pyboy class and
 
 The most important of these is the rewriting of the tick method
 
-https://github.com/siw028/AI-Pokemon-Trainer/blob/3ce64b16f8cb488a4101ec0393bde7fec2f797c1/app.py#L74-L84
+https://github.com/Ma-urj/AI-Pokemon-Trainer/blob/3ce64b16f8cb488a4101ec0393bde7fec2f797c1/app.py#L74-L84
 
 In order to provide the latest game screen to the web frontend, we pass the screen data into the last frame in the tick, and the Websocket process handles the communication
 
@@ -120,7 +120,7 @@ In order to provide the latest game screen to the web frontend, we pass the scre
 > 
 > Of course you can use `--skip-animation` to skip this wait
 > 
-> One user mentioned it in https://github.com/siw028/AI-Pokemon-Trainer/issues/1
+> One user mentioned it in https://github.com/Ma-urj/AI-Pokemon-Trainer/issues/1
 
 
 ### main.py Local Pyboy Window
@@ -176,7 +176,7 @@ The configuration file under `data/` can optionally be loaded, which can modify 
 
 For example,
 
-https://github.com/siw028/AI-Pokemon-Trainer/blob/3ce64b16f8cb488a4101ec0393bde7fec2f797c1/test/data/002_ViridianForest.yaml#L1-L3
+https://github.com/Ma-urj/AI-Pokemon-Trainer/blob/3ce64b16f8cb488a4101ec0393bde7fec2f797c1/test/data/002_ViridianForest.yaml#L1-L3
 
 > [!NOTE]
 > The reason for using the yaml format is because you can write comments

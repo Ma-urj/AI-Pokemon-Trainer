@@ -11,3 +11,5 @@ scipy
 numpy
 matplotlib
 prompt_toolkit
+ollama
+pygments
